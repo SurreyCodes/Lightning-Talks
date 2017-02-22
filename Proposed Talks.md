@@ -10,10 +10,10 @@ if you think of new lightning talks that can be done, feel free to colaborate :)
 ## Lightning Talks done in the past:
 
 * Introduction to SurreyCodeCamp
-*- Camper: Luis Ricardo Espinal (Twitter: [@lespinalrivera](https://www.twitter.com/lespinalrivera)
+*- Camper: Luis Ricardo Espinal (Twitter: [@lespinalrivera](https://www.twitter.com/lespinalrivera))
 
 * Github 101
-*- Camper: Derrick Gold (Twitter: <a ref="https://www.twitter.com/Thederrickgold">@Thederrickgold</a>)
+*- Camper: Derrick Gold (Twitter: [@Thederrickgold](https://www.twitter.com/Thederrickgold))
 
 * The Terminal
-*- Camper: Kevin Griffin (Github: <a ref="https://github.com/Alecto3-D">@Alecto3-D</a>)
+*- Camper: Kevin Griffin (Github: [@Alecto3-D](https://github.com/Alecto3-D))
