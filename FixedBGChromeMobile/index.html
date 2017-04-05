@@ -1,0 +1,55 @@
+<!doctype html>
+
+<!--Lightning Talk:
+Creating a static image background without it scrolling!
+-->
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <!--this is the important part to making it work-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+</head>
+
+<style>
+  /*
+  * With the meta tag for the viewport, these will scale to the device
+	* resolution
+  */
+  
+  html, body {
+  	width: 100%;
+  	height: 100%;
+  }
+
+  body {
+  /* make sure your image exists, change this url with your own! */
+  	background: url("bgimage.jpg") 50% 0 no-repeat fixed;
+  	background-size: cover;
+  	height: inherit;
+  }
+
+  .redDiv {
+  	width: 200px;
+  	height: 500px;
+  	background-color: red;
+  	margin-top: 20px;
+  }
+</style>
+
+<body>
+  <!--Create some divs that will enable scrolling-->
+  <div class="redDiv"></div>
+  <div class="redDiv"></div>
+  <div class="redDiv"></div>
+  <div class="redDiv"></div>
+  <div class="redDiv"></div>
+  <div class="redDiv"></div>
+</body>
+</html>
