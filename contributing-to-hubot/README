@@ -1,0 +1,6 @@
+example.js is the example code that we wrote during the workshop. The slides aren't included because they provide
+no benefit as they were simply introductory.
+
+To get this script working in hubot, copy example.js to the scripts/ directory in your forked
+surreycodecamp-hubot repo. Copy it, hack on it, make whatever changes you want and add some documentation. First
+person to make the changes and throw up a PR will have it merged and deployed to the working hubot instance (ponch)!
